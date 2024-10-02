@@ -4,7 +4,7 @@ This project provides valuable insights into the factors that influence coffee q
 
 CQI's mission is to promote coffee quality through a range of activities that include research, training, and certification programs. The organization works with coffee growers, processors, roasters, and other stakeholders to improve coffee quality standards, promote sustainability, and support the development of the specialty coffee industry.
 
-Data:
+#Data:
 
 The data includes a range of information on coffee production, processing, and sensory evaluation. It also contains data on coffee genetics, soil types, and other factors that can affect coffee quality. Sensory evaluations (coffee quality scores)
 
