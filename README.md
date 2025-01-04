@@ -1,4 +1,4 @@
-# Exploring Coffee Quality Data Power BI.
+# Exploring Coffee Quality Data Power BI..
 
 This project provides valuable insights into the factors that influence coffee quality, helping stakeholders. The analysis can guide coffee growers optimizing their processes to achieve higher quality scores and better market positioning.
 
