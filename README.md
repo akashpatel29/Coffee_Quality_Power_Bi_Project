@@ -26,4 +26,4 @@ How do different variables interact to influence the Total Cup Points, which rep
 
 The analysis of coffee quality using the provided attributes reveals critical insights into what makes a coffee sample stand out. Key attributes such as Aroma, Flavor, and Clean Cup significantly influence the overall quality. This information can guide coffee producers in improving their products and focusing on areas that contribute most to consumer satisfaction.
 
-____________________________________________________________________
+______________________________________________________________________________________
